@@ -13,6 +13,6 @@ Pygame
 Matplotlib  
 
 # 3. Model
-![](/images/explanation.PNG)
+![](/images/model.PNG)  
 ResNet50
 
